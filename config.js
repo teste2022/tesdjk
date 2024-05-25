@@ -8,9 +8,7 @@ var config = {
 
 	admin: '76561198071550434',
 	
-	manager_domain: 'https://aplicacao-node.onrender.com
-
-',
+	manager_domain: 'https://aplicacao-node.onrender.com',
 	manager_lang: 'en',
 	manager_cancelTime: 60000,
 
