@@ -1,10 +1,10 @@
 var config = {
 	polling_interval : 50,
-	db: '',
-	host: '',
-	user: '',
-	port: '',
-	password: '',
+	db: 'namebdd',
+	host: 'mysql247.umbler.com',
+	user: 'bancomarcos',
+	port: '41890',
+	password: 'projetoprojeto',
 
 	admin: '76561198071550434',
 	
