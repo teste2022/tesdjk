@@ -8,7 +8,7 @@ var config = {
 
 	admin: '76561198071550434',
 	
-	manager_domain: 'csgolynx.com',
+	manager_domain: 'http://artesecultura-com-br.umbler.net/',
 	manager_lang: 'en',
 	manager_cancelTime: 60000,
 
